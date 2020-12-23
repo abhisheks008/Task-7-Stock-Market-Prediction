@@ -12,6 +12,7 @@ Objective: Create a hybrid model for stock price/performance prediction using nu
 ● Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model
 
 ● You are free to select a different stock to analyze and news dataset as well while not changing the objective of the task.
+***********************************************
 
 
 
